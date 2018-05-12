@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42772'
     url: http://www.gutenberg.org/2009/agents/42772
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44466#The-First-Man-Carrying-Aeroplane-Capable-of-Sustained-Free-Flight--Langley-s-Success-as-a-Pio_
 gutenberg_issued: '2013-12-19'
 gutenberg_type: Text
 identifiers:
